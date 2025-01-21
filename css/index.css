@@ -187,7 +187,7 @@ section {
 /* main */
 .main .main_visual .main_inner {
     width: 100%;
-    height: 810px;
+    height: 100vh;
 }
 .main .main_visual .main_inner .visual_image {
     width: 100%;
